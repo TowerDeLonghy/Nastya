@@ -1,0 +1,38 @@
+.ja{
+  position: absolute;
+  width: 1855px;
+  height: 984px
+  top: 0px;
+  left: 0px;
+}
+.mts{
+  position: absolute;
+  left: 870px;
+  top: 150px;
+}
+.ai{
+  position: absolute;
+  left: 1190px;
+  top: 150px;
+}
+.cr{
+  position: absolute;
+  left: 1510px;
+  top: 150px;
+}
+button{
+  font-family: SeoulHangang CM;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 75px;
+  line-height: 75px;
+  color: #2D2D2D;
+
+  background: #FA69FA;
+  border: 1px solid #FA69FA;
+  box-sizing: border-box;
+  border-radius: 50px;
+
+  width: 228px;
+  height: 101px;
+}
